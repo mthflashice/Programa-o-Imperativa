@@ -1,0 +1,47 @@
+let numero = ex10;
+console.log(++numero);
+// add o numero
+
+//decremento
+console.log(--numero);
+//tira o numero
+
+Comparação simples:
+5==="5"
+
+//comparação de maior
+console.log (10>50);
+
+
+
+
+//comparação de igualdade rígida
+//valores e o tipo
+console.log(5=== "5");
+
+//comparação de diferente
+//!= Diferença
+console.log("olá" != "oi")
+
+
+//comparação de diferentes rígida
+
+console.log(5 !== "5");
+
+
+//$$ junda compativa
+
+//comparação logica Or
+console.log(10>5 || 8 > 10);
+
+//contenação add em um
+let nome ="João
+let sobrenome ="Oliveira";
+console.log(nome + " " sobrenome);
+
+
+
+
+
+
+

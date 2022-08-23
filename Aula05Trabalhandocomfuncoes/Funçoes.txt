@@ -1,0 +1,22 @@
+Expresssa
+ function darOi(){
+console.log("olá, texte e ai?"}
+ return umNumero *2;
+
+Declaradas
+ let somar = function(){
+console.log(1+1);}
+
+somar();
+
+
+Escopo local
+ex:
+function multiplicar(numA + numB){
+let resultado = num*numB;
+}
+
+
+Escopo Global
+console.log(resultado);
+
